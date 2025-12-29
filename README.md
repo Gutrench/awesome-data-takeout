@@ -7,7 +7,7 @@ Awesome list of data export pages/tools for most common online services
 * [Search-engines](#search-engines)
 * [Social networks](#social-networks)
 * [Messengers](#messengers)
-* [Email](#email)
+* [Email](#obychrisb92@gmail.com)
 * [Business tools](#business-tools)
 * [Developer tools and services](#developer-tools-and-services)
 * [Password managers](#password-managers)
